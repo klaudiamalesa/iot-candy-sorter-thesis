@@ -1,1 +1,13 @@
-# iot-candy-sorter-thesis
+# Projekt Inżynierski: Urządzenie IoT do sortowania cukierków według barwy
+
+Samodzielnie zaprojektowany i zrealizowany funkcjonalny system mechatroniczny łączący mechanikę, elektronikę i informatykę.
+
+## Wykorzystane technologie
+* **Software i Algorytmy:** Python (wizualizacja w czasie rzeczywistym, archiwizowanie danych), autorski algorytm rozpoznawania barw odporny na zmienne oświetlenie (izolowana komora optyczna).
+* **Sterowanie:** Arduino (logika czasu rzeczywistego, precyzyjne sterowanie automatyczne).
+* **Hardware i Konstrukcja:** AutoCAD (dokumentacja i modele), KiCad (zaprojektowanie płyty PCB), fizyczny montaż układów mikrokontrolerów i czujników.
+
+## Zawartość repozytorium
+* `Praca_Inzynierska.pdf` – Oficjalna dokumentacja projektu inżynierskiego.
+* `main.py` – Aplikacja w Pythonie odpowiedzialna za wizualizację i obsługę danych.
+* `arduino_code.ino` – Skrypt sterujący mikrokontrolerem Arduino.
