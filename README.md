@@ -8,6 +8,6 @@ Samodzielnie zaprojektowany i zrealizowany funkcjonalny system mechatroniczny ł
 * **Hardware i Konstrukcja:** AutoCAD (dokumentacja i modele), KiCad (zaprojektowanie płyty PCB), fizyczny montaż układów mikrokontrolerów i czujników.
 
 ## Zawartość repozytorium
-* `Praca_Inzynierska.pdf` – Oficjalna dokumentacja projektu inżynierskiego.
+* `pracainzynierska.pdf` – Oficjalna dokumentacja projektu inżynierskiego.
 * `main.py` – Aplikacja w Pythonie odpowiedzialna za wizualizację i obsługę danych.
-* `arduino_code.ino` – Skrypt sterujący mikrokontrolerem Arduino.
+* `kod_sorter_arduino.ino` – Skrypt sterujący mikrokontrolerem Arduino.
